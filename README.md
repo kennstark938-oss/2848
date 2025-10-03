@@ -15,3 +15,4 @@ Contributions and feature requests are welcome. This application is open-source 
 
 
 Enjoy challenging yourself and experimenting with AI-assisted gameplay in this enhanced take on a beloved classic.
+YOUTUBE VIDEO LINK:https://youtu.be/AE9sIJRgrKo
