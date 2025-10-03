@@ -11,4 +11,7 @@ To start playing, install the Flask dependency and run the included Python scrip
 
 Contributions and feature requests are welcome. This application is open-source under the MIT License, encouraging community involvement to improve and expand its capabilities.
 
+<img width="1788" height="921" alt="image" src="https://github.com/user-attachments/assets/40a5810f-579c-48e1-8c17-08f3eb4daa48" />
+
+
 Enjoy challenging yourself and experimenting with AI-assisted gameplay in this enhanced take on a beloved classic.
